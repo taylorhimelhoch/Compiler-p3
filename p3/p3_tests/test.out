@@ -1,0 +1,8 @@
+int a;
+short z;
+void fn() {
+
+}
+int fn2(int a) {
+
+}

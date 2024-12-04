@@ -1,0 +1,29 @@
+int fn2(int a) {
+	return (a + 1); 
+
+}
+void fn() {
+	int a;
+	short z;
+	a = 1; 
+	z = 165; 
+	a--; 
+	if ((a > 0)) {
+
+}
+	if ((a < 0)) {
+
+}
+ else {
+
+}
+	while ((a < 10) && (a > 0)) {
+		a++; 
+
+}
+	int b;
+	b = fn2(a); 
+	fn2(b);
+	return 5; 
+
+}
